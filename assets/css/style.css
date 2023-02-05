@@ -228,7 +228,7 @@ body {
       display: flex;
       padding: 5px; }
       .profile-box .detail-px .fx-ro .dat {
-        min-width: 120px;
+        min-width: 100px;
         padding: 13px 20px; }
       .profile-box .detail-px .fx-ro .detail b {
         font-size: 1rem; }
