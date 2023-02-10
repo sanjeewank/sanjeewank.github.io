@@ -251,6 +251,9 @@ body {
   width: 60px;
 }
 
+.techstack{
+  font-weight: bold;
+}
 
 .techbox{
   width: 45%;
